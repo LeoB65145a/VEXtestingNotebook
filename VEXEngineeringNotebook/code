@@ -1,0 +1,2 @@
+/*----------------------------------------------------------------------------*/ /* */ /* Module: main.cpp */ /* Author: Wyatt Mattson */ /* Created: Wed Nov 11 2020 */ /* Description: Cool dance */ /* */ /*----------------------------------------------------------------------------*/ // ---- START VEXCODE CONFIGURED DEVICES ---- // Robot Configuration: // [Name] [Type] [Port(s)] // ArmMotor motor 1 // Drivetrain drivetrain 2, 3 // ---- END VEXCODE CONFIGURED DEVICES ---- #include "vex.h" using namespace vex; int main() { // Initializing Robot Configuration. DO NOT REM 
+
